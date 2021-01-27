@@ -1,0 +1,5 @@
+print('Hello')
+a = input('введите текст:')
+b = int(input('Введите число: '))
+print(a)
+print(b)
